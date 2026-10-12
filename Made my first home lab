@@ -1,4 +1,3 @@
-
 This was done back in 2024 and I have become more experienced, this was a word document I found when I first downloaded a virtual box, made a simple Home lab, learned about kali linux,
 it holds my goals back then, what I did, and how I did it.
 
@@ -7,39 +6,39 @@ Overview
 
 This project documents my first home lab, built to develop practical IT and system administration skills, ethical hacking, and cybersecurity.
 
-Objectives
-Install Ubuntu Server in a virtual machine.
-Learn basic Linux commands.
-Understand IP addresses and networking.
-Install and manage an Nginx web server.
-Document technical work using GitHub.
-Hardware and Software
-Host computer
-Virtualisation: Oracle VirtualBox
-Operating system: Kali linux 
-Web server: Nginx
-Documentation: GitHub
+ - Objectives
+ - Install Ubuntu Server in a virtual machine.
+ - Learn basic Linux commands.
+ - Understand IP addresses and networking.
+ - Install and manage an Nginx web server.
+ - Document technical work using GitHub.
+ - Hardware and Software
+ - Host computer
+ - Virtualisation: Oracle VirtualBox
+ - Operating system: Kali linux 
+ - Web server: Nginx
+ - Documentation: GitHub
+
 
 What I Did
-Created a virtual machine in VirtualBox.
-Installed Kali linux Server.
-Set up the Basic settings for usability.
-Practised Linux terminal commands.
-Checked network interfaces and connectivity.
-Installed and checked the Nginx service.
 
-Evidence
-Screenshots and configuration notes will be added as I complete each stage.
+- Created a virtual machine in VirtualBox.
+- Installed Kali linux Server.
+- Set up the Basic settings for usability.
+- Practised Linux terminal commands.
+- Checked network interfaces and connectivity.
+- Installed and checked the Nginx service.
 
 Skills Learned
-Linux fundamentals
-Virtualisation
-Service management
-Technical documentation
-Future Improvements
-Configure SSH access securely.
-Learn Linux users and permissions.
-Set up a firewall.
-Monitor system resources.
-Explore Docker and additional services.
-Learn to use built in hacking/ security tools.
+
+- Linux fundamentals
+- Virtualisation
+- Service management
+- Technical documentation
+- Future Improvements
+- Configure SSH access securely.
+- Learn Linux users and permissions.
+- Set up a firewall.
+- Monitor system resources.
+- Explore Docker and additional services.
+- Learn to use built in hacking/ security tools.
